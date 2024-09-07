@@ -2,7 +2,8 @@
  * Authors: Austin P
  * Date last Updated: 9/6/2024
  * Purpose: This program is the driver class for the redesigned Rational class
- * that uses BigInteger for the numerator and denominator and displays the result of the division
+ * that uses BigInteger for the numerator and denominator and displays the result of 
+ * multiple different operations such as addition, subtraction, multiplication, and division
  */
 import java.math.BigInteger;
 import java.util.Scanner;
